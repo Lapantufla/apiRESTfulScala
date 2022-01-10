@@ -1,4 +1,4 @@
-Paradigmas de Programación @ FAMAFyC - 2020
+FAMAFyC
 ===========================================
 
 Laboratorio de Programación Concurrente
